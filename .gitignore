@@ -64,8 +64,8 @@ package-lock.json
 # Output
 .output
 .vercel
-frontend/.svelte-kit
-frontend/build
+.svelte-kit
+build
 
 # OS
 .DS_Store
